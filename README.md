@@ -1,7 +1,11 @@
 # l10n-tw-translationproject
 Traslation projects managed by l10n-tw.
 
+## Goal 宗旨
+The goal of this project is to translate free and open source software which needs focus on and works better with collaborative translation into traditional Chinese (Taiwan) language.
+
 由 l10n-tw 管理的翻譯專案。
+本專案的目的在於：把需要關注、且適合多人協作式翻譯的自由與開源軟體翻譯為臺灣的正體中文。
 
 ## Translation Disclaimer 翻譯的權利放棄聲明
 Translators who contribute to this project will never make use of the copyright on his or her translations: will never forbid copying them, and will never ask for some kind of compensation. Everyone will always be allowed to freely use, modify, and distribute these translations.
