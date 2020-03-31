@@ -17,3 +17,7 @@ Translators who contribute to this project will never make use of the copyright 
 All files of the project are distributed under the MIT license (MIT) unless otherwise stated.
 
 本專案之所有檔案，除非另有說明，否則皆採用 MIT 授權散布。
+
+### Project Workflow 專案運作方式
+本專案為 l10n-tw 運作時的統籌概覽專案 (meta-project)：
+即任何自由軟體專案之翻譯，如果遇到需要改善的地方，沒有地方可以追蹤議題與進度，便可以到這裡提交 Issue，並委託本專案貢獻者協助修正。
